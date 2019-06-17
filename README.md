@@ -1,2 +1,2 @@
 # Algorithms
-Course work from java for Quick Sort and Merge Sort implementation and analisys
+Course work from Java. Quick Sort and Merge Sort implementation and analisys(which is wrong).
